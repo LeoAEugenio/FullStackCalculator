@@ -12,10 +12,6 @@ This version is simpler than the previous one: it does not include the feature t
 - Divide  
 - Front-end and back-end communication via REST API  
 
-## Sample UI
-
-![Calculator UI Sample](assets/calculator-sample.png)
-
 ## Getting Started
 
 1. Download or clone the repository:  
