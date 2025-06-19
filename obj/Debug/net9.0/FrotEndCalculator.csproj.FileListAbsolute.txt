@@ -1,0 +1,17 @@
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\FrotEndCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\FrotEndCalculator.AssemblyInfoInputs.cache
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\FrotEndCalculator.AssemblyInfo.cs
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\FrotEndCalculator.csproj.CoreCompileInputs.cache
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\FrotEndCalculator.csproj.AssemblyReference.cache
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\bin\Debug\net9.0\FrotEndCalculator.exe
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\bin\Debug\net9.0\FrotEndCalculator.deps.json
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\bin\Debug\net9.0\FrotEndCalculator.runtimeconfig.json
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\bin\Debug\net9.0\FrotEndCalculator.dll
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\bin\Debug\net9.0\FrotEndCalculator.pdb
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\FrotEndC.FE8BA5AA.Up2Date
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\FrotEndCalculator.dll
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\refint\FrotEndCalculator.dll
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\FrotEndCalculator.pdb
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\FrotEndCalculator.genruntimeconfig.cache
+C:\Users\leleco\Desktop\Programming\C#\FrotEndCalculator\FrotEndCalculator\obj\Debug\net9.0\ref\FrotEndCalculator.dll
