@@ -6,14 +6,22 @@ This version is simpler than the previous one: it does not include the feature t
 
 ## Features
 
-- Sum
-- Subtract 
-- Multiply
-- Divide
+- Sum  
+- Subtract  
+- Multiply  
+- Divide  
 - Front-end and back-end communication via REST API  
+
+## Sample UI
+
+![Calculator UI Sample](assets/calculator-sample.png)
 
 ## Getting Started
 
-1. Clone the repository:  
+1. Download or clone the repository:  
    ```bash
    git clone https://github.com/YourUsername/FullStackCalculator.git
+2.Open the project in VS Code.
+3.Run the back-end API
+4.Open index.html in your preferred browser
+5.Start doing your maths!
