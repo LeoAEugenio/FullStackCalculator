@@ -6,10 +6,10 @@ This version is simpler than the previous one: it does not include the feature t
 
 ## Features
 
-- Add two numbers  
-- Subtract two numbers  
-- Multiply two numbers  
-- Divide two numbers  
+- Sum
+- Subtract 
+- Multiply
+- Divide
 - Front-end and back-end communication via REST API  
 
 ## Getting Started
