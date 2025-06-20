@@ -10,7 +10,14 @@ This version is simpler than the previous one: it does not include the feature t
 - Subtract  
 - Multiply  
 - Divide  
-- Front-end and back-end communication via REST API  
+- Front-end and back-end communication via REST API
+
+---
+
+## Technologies
+- .NET (C#)
+- JavaScript
+- HTML
 
 ## Getting Started
 
