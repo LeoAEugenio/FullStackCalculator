@@ -27,10 +27,10 @@ This version is simpler than the previous one: it does not include the feature t
    ```bash
    git clone https://github.com/YourUsername/FullStackCalculator.git
    
-2.Open the project in VS Code.
+2. Open the project in VS Code.
 
-3.Run the back-end API
+3. Run the back-end API
 
-4.Open index.html in your preferred browser
+4. Open index.html in your preferred browser
 
-5.Start doing your maths!
+5. Start doing your maths!
