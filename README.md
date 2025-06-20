@@ -19,6 +19,8 @@ This version is simpler than the previous one: it does not include the feature t
 - JavaScript
 - HTML
 
+---
+
 ## Getting Started
 
 1. Download or clone the repository:  
