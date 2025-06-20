@@ -25,7 +25,7 @@ This version is simpler than the previous one: it does not include the feature t
 
 1. Download or clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/FullStackCalculator.git
+   git clone https://github.com/LeoAEugenio/FullStackCalculator.git
    
 2. Open the project in VS Code.
 
